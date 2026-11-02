@@ -62,7 +62,7 @@ const CheckoutModal = ({ onClose }) => {
                             <div className="relative flex items-center bg-[#F1FFFF] border border-gray-300 rounded-lg px-4 py-3.5 shadow-sm">
                                 <input
                                     type="text"
-                                    defaultValue="5355 0348 5945 5045"
+                                    placeholder="5355 0348 5945 5045"
                                     className="w-full bg-[#F1FFFF] text-[15px] text-[#949999] font-raleway font-normal outline-none font-mono"
                                 />
                                 {/* Mastercard circles */}
@@ -81,7 +81,7 @@ const CheckoutModal = ({ onClose }) => {
                                 </label>
                                 <input
                                     type="text"
-                                    defaultValue="0522"
+                                    placeholder="0522"
                                     className="w-full bg-[#F1FFFF] border border-gray-300 rounded-lg px-4 py-3.5 text-[15px] font-raleway font-normal text-[#949999] outline-none shadow-sm font-mono"
                                 />
                             </div>
@@ -93,7 +93,7 @@ const CheckoutModal = ({ onClose }) => {
                                 </label>
                                 <input
                                     type="text"
-                                    defaultValue="07/06/2024"
+                                    placeholder="07/06/2024"
                                     className="w-full bg-[#F1FFFF] border border-gray-300 rounded-lg px-4 py-3.5 text-[15px] font-raleway font-normal text-[#949999] outline-none shadow-sm font-mono"
                                 />
                             </div>

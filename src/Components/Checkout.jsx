@@ -146,13 +146,13 @@ function CheckOut() {
 
             <div className="w-full max-w-[421px] h-[48px] flex items-center justify-between">
                 <div className="w-full max-w-[107px] h-[40px] flex gap-3 items-center border-[0.5px] border-[#6B6F6B] rounded-sm justify-center">
-                    <TiPlus className="max-w-[20px] h-[20px]"/>
+                    <TiPlus className="max-w-[20px] h-5"/>
 
-                    <div className="w-[24px] h-[24px] border rounded-sm flex items-center justify-center ">
+                    <div className="w-6 h-6 border rounded-sm flex items-center justify-center ">
                         <p className="text-[#6B6F6B] font-meduim text-[18px]">1</p>
                     </div>
 
-                    <TiMinus className="max-w-[20px] h-[20px]"/>
+                    <TiMinus className="max-w-5 h-5"/>
                 </div>
 
                 <div className="w-[100px] h-[41px] hidden md:flex items-center justify-center">
