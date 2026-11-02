@@ -5,8 +5,8 @@ import { FaArrowRight } from "react-icons/fa6";
 
 function Footer() {
   return (
-    <footer className="w-full bg-[#080808] text-[#D0D0D0]">
-      <section className="w-full max-w-329.5 mx-auto p-8 min-h-[560px]">
+    <footer className="w-full bg-[#080808] text-[#D0D0D0]  ">
+      <section className="w-full max-w-329.5 mx-auto p-8 md:py-40 min-h-[560px]">
 
         <div className="grid grid-cols-1 md:grid-cols-[1.5fr_0.55fr_1fr] gap-12 md:gap-16">
 
